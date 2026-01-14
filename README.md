@@ -1,7 +1,9 @@
 # MPeV7 - DIY ebike computer
 FORK of #MPeV6 (Atmega328p)
+
 EN: More info https://bikel.pl/en/mpe-computer-for-e-bike/
 PL: Więcej informacji: https://bikel.pl/komputer-mpe-do-e-bike/
+
 
 #MPeV7 - FORK DIY ebike computer
 - ESP32* w fazie testów
